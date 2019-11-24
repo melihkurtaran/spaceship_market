@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="https://www.w3schools.com"
+	xmlns="https://www.w3schools.com" elementFormDefault="qualified">
+	
+	<xs:element name="items.xml">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="item">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="id" />
+							<xs:element name="name" />
+							<xs:element name="speed" />
+							<xs:element name="price" />
+							<xs:element name="dprice" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>

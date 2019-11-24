@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zaposleniAvtoSole>
+<zaposleni id="as_234" tip="instruktor 1. kategorija">
+ <osebniPodatki rd="31.12.1970" spol="M">Marjan GojÄŤiÄŤ  </osebniPodatki>
+ <kontakt>
+ <telefon>02 222 5555</telefon>
+ <mail>marjan@gmail.com</mail>
+ </kontakt>
+</zaposleni>
+<zaposleni id="as_233" tip="instruktor 2. kategorija">
+ <osebniPodatki rd="16.5.1980" spol="zenska">Marija Zadravec</osebniPodatki>
+ <kontakt>
+ <gsm>041 222 333</gsm>
+ <mail>marija@gmail.com</mail>
+ </kontakt>
+</zaposleni>
+</zaposleniAvtoSole>
